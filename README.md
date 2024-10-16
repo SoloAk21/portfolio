@@ -1,6 +1,6 @@
 
 
-```
+
 # Portfolio Website
 
 Welcome to my portfolio website! This project showcases my skills, projects, and experiences in web development. Built using React and Vite, it features a modern, responsive design that adapts to both desktop and mobile devices.
@@ -29,7 +29,7 @@ Welcome to my portfolio website! This project showcases my skills, projects, and
 - **Multi-language Support**: Users can switch between languages using a language switcher.
 - **Smooth Navigation**: Easy navigation through different sections of the portfolio.
 - **Slide-in Mobile Menu**: A mobile-friendly menu that enhances user experience on smaller devices.
- ```
+
 ## Getting Started
 
 To get started with the project locally, follow these steps:
