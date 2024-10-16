@@ -7,7 +7,7 @@
 /* Global Styles */
 * {
   @apply m-0 p-0 box-border;
-  scroll-behavior: smooth;
+  scroll-behavior: auto;
 }
 
 body {
@@ -17,7 +17,9 @@ body {
 header {
   @apply fixed top-0 left-0 w-full z-50 backdrop-blur-md shadow-lg transition-transform duration-500 ease-in-out;
 }
-
+section {
+  scroll-margin-top: 80px;
+}
 /* Dark Mode Variables */
 .dark {
   --background-color: #111827;

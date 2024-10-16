@@ -18,7 +18,10 @@ const MobileMenu = ({ isOpen, onClose, darkMode }) => {
         </div>
 
         <NavLinks onClick={onClose} />
-        <button className="btn mt-4">{t("hireMe")}</button>
+
+        <button href={`#contact`} className="btn mt-4">
+          <a href="#contact">{t("hireMe")}</a>
+        </button>
       </div>
     )
   );

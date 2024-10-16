@@ -1,3 +1,4 @@
+// App.js
 import React, { useState, useEffect } from "react";
 import Header from "./sections/Header";
 import HeroSection from "./sections/HeroSection";
@@ -22,22 +23,29 @@ export default function App() {
           : "bg-gray-200 text-gray-900"
       }`}
     >
-      {" "}
-      <Header darkMode={darkMode} setDarkMode={setDarkMode} />
+      <div className="mt-20">
+        {" "}
+        <Header darkMode={darkMode} setDarkMode={setDarkMode} />
+      </div>
       <div className="max-w-7xl m-auto">
-        {/* Header component */}
-
-        {/* Instead of padding-top: 16, apply margin to separate content */}
-        <main className="mt-20">
-          {" "}
-          {/* Adjust margin-top here */}
-          <HeroSection />
-          <Tools />
-          <About />
-          <Projects />
-          <Contact />
+        <main className="pt-14">
+          <section id="home">
+            <HeroSection />
+          </section>
+          <section id="about">
+            <About />
+          </section>
+          <section id="tools">
+            <Tools />
+          </section>
+          <section id="projects">
+            <Projects />
+          </section>
+          <section id="contact">
+            <Contact />
+          </section>
         </main>
-      </div>{" "}
+      </div>
       <Footer />
     </div>
   );

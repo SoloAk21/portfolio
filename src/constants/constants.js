@@ -6,7 +6,9 @@ import { CiLinkedin } from "react-icons/ci";
 
 // Navigation Links
 export const NAV_LINKS = [
+  { id: "home", label: { en: "Home", am: "መነሻ" } },
   { id: "about", label: { en: "About", am: "ስለ" } },
+  { id: "tools", label: { en: "Tools", am: "መሣሪያዎች" } },
   { id: "projects", label: { en: "Projects", am: "ፕሮጀክቶች" } },
   { id: "contact", label: { en: "Contact", am: "እንኳን" } },
 ];
@@ -256,7 +258,7 @@ export const PROJECT_DATA = {
       },
       githubUrl: "https://github.com/your-ecommerce-repo-link",
       liveUrl: "https://your-ecommerce-live-site.com",
-      image: "/assets/images/e-commerce.jpg", // Replace with your actual project image URL
+      image: "assets/images/e-commerce.jpg",
     },
     {
       title: {
@@ -281,7 +283,7 @@ export const PROJECT_DATA = {
       },
       githubUrl: "https://github.com/your-fitness-tracker-repo-link",
       liveUrl: "https://your-fitness-tracker-live-site.com",
-      image: "/assets/images/fitness-tracker.jpg",
+      image: "assets/images/fitness-tracker.jpg",
     },
     {
       title: {
@@ -306,7 +308,7 @@ export const PROJECT_DATA = {
       },
       githubUrl: "https://github.com/your-travel-blog-repo-link",
       liveUrl: "https://your-travel-blog-live-site.com",
-      image: "/assets/images/travel-blog.jpg",
+      image: "assets/images/travel-blog.jpg",
     },
     {
       title: {
@@ -331,7 +333,7 @@ export const PROJECT_DATA = {
       },
       githubUrl: "https://github.com/your-recipe-sharing-repo-link",
       liveUrl: "https://your-recipe-sharing-live-site.com",
-      image: "/assets/images/recipe-sharing.jpg",
+      image: "assets/images/recipe-sharing.jpg",
     },
     {
       title: {
@@ -356,7 +358,7 @@ export const PROJECT_DATA = {
       },
       githubUrl: "https://github.com/your-educational-repo-link",
       liveUrl: "https://your-educational-live-site.com",
-      image: "/assets/images/educational-platform.jpg",
+      image: "assets/images/educational-platform.jpg",
     },
     {
       title: {
@@ -381,7 +383,7 @@ export const PROJECT_DATA = {
       },
       githubUrl: "https://github.com/your-weather-forecast-repo-link",
       liveUrl: "https://your-weather-forecast-live-site.com",
-      image: "/assets/images/weather-forecast.jpg",
+      image: "assets/images/weather-forecast.jpg",
     },
   ],
 };

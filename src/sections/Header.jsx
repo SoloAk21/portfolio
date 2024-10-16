@@ -55,7 +55,9 @@ const Header = ({ darkMode, setDarkMode }) => {
 
         <NavLinks />
         <div className="flex space-x-4">
-          <button className="btn hidden md:block">{t("hireMe")}</button>
+          <a href="#contact" className="btn  hidden md:block">
+            {t("hireMe")}
+          </a>
         </div>
       </nav>
 
@@ -66,7 +68,9 @@ const Header = ({ darkMode, setDarkMode }) => {
         </div>
         <img src="assets/images/soloak.png" width={40} alt="SoloAk" />
         <div>
-          <button className="btn">{t("hireMe")}</button>
+          <a href="#contact" className="btn ">
+            {t("hireMe")}
+          </a>
         </div>
       </nav>
 

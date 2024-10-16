@@ -91,7 +91,9 @@ const HeroSection = () => {
             className="flex justify-center gap-4"
             variants={textVariants}
           >
-            <button className="btn">{t("hireMe")}</button>
+            <a href="#contact" className="btn ">
+              {t("hireMe")}
+            </a>
             <button
               className="btn-outlined flex gap-1 justify-center items-center"
               onClick={handleDownloadAndOpen}
