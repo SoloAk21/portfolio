@@ -32,7 +32,7 @@ To get started with the project locally, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/SoloAk21/portfolio.git
-   cd portfolio-website
+   cd portfolio
  
 
 2. **Install dependencies**:
