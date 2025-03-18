@@ -2,6 +2,12 @@
 
 Welcome to this simple portfolio website! This project showcases sample skills, projects, and experiences in web development. Built using React and Vite, it features a modern(minimalistic), responsive design that adapts to both desktop and mobile devices.
 
+
+## 🔗 Figma Design
+
+Check out the design on **Figma**: [SoloAk Portfolio](https://www.figma.com/design/w3sxEeXrOMTYFNCCpwbXVj/SoloAk-Portfolio?node-id=0-1&t=KrmO0xNIRcY7q1dd-1)
+
+
 ## Table of Contents
 
 - [Technologies Used](#technologies-used)
@@ -9,7 +15,7 @@ Welcome to this simple portfolio website! This project showcases sample skills, 
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 
-## Technologies Used
+## 🚀 Technologies Used
 
 - **React**: A JavaScript library for building user interfaces.
 - **Vite**: A fast build tool that provides a smooth development experience.
@@ -17,40 +23,43 @@ Welcome to this simple portfolio website! This project showcases sample skills, 
 - **i18next**: For internationalization and language support.
 - **Tailwind CSS**: A utility-first CSS framework for styling.
 
-## Features
+## ✨ Features
 
-- **Dark Mode**: Toggle between light and dark themes for better user experience.
-- **Responsive Design**: Adapts seamlessly to different screen sizes (desktop and mobile).
-- **Multi-language Support**: Users can switch between languages using a language switcher.
-- **Smooth Navigation**: Easy navigation through different sections of the portfolio.
-- **Slide-in Mobile Menu**: A mobile-friendly menu that enhances user experience on smaller devices.
+- 🌑 **Dark Mode** – Toggle between light and dark themes effortlessly.
+- 📱 **Responsive Design** – Fully optimized for desktop and mobile screens.
+- 🌍 **Multi-language Support** – Supports multiple languages with an easy switcher.
+- 🏎 **Optimized Performance** – Built with Vite for fast loading and smooth navigation.
+- 📌 **Dynamic Projects Showcase** – Showcases work dynamically using JSON data.
+- 📜 **Smooth Animations** – Enhances user experience with subtle UI animations.
+- 📜 **Slide-in Mobile Menu** – Intuitive navigation for mobile users.
 
 ## Getting Started
 
-To get started with the project locally, follow these steps:
- 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/SoloAk21/portfolio.git
-   cd portfolio
- 
+## 🔧 Installation & Setup
 
-2. **Install dependencies**:
-   ```bash
-   npm install
-   ```
+Follow these steps to run the project locally:
 
-3. **Run the development server**:
-   ```bash
-   npm run dev
-   ```
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/SoloAk21/portfolio.git
+cd portfolio
+```
 
-4. Open your browser and navigate to `http://localhost:3000` to see your portfolio in action!
+### 2️⃣ Install Dependencies
+```bash
+npm install
+```
 
-## Usage
+### 3️⃣ Start the Development Server
+```bash
+npm run dev
+```
 
-- Explore different sections like Home, About, Tools, Projects, and Contact.
-- Use the language switcher to change the language of the site.
-- Toggle between dark and light modes for your preference.
+Now, open your browser and go to `http://localhost:3000` to view your portfolio in action!
 
+## 📖 Usage
 
+- Explore sections: **Home**, **About**, **Tools**, **Projects**, and **Contact**.
+- Use the **language switcher** to change site language.
+- Toggle between **dark and light modes** for personalized viewing.
+- View **live project previews** and details.
