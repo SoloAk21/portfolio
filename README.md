@@ -5,8 +5,9 @@ Welcome to this simple portfolio website! This project showcases sample skills, 
 
 ## 🔗 Figma Design
 
-Check out the design on **Figma**: [SoloAk Portfolio](https://www.figma.com/design/w3sxEeXrOMTYFNCCpwbXVj/SoloAk-Portfolio?node-id=0-1&t=KrmO0xNIRcY7q1dd-1)
+Check out the design on **Figma**: [ Portfolio](https://www.figma.com/design/w3sxEeXrOMTYFNCCpwbXVj/SoloAk-Portfolio?node-id=0-1&t=KrmO0xNIRcY7q1dd-1)
 
+**Note:** The data used in the Figma design and portfolio is **sample data** for demonstration purposes.
 
 ## Table of Contents
 
