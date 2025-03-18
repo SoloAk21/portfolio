@@ -57,9 +57,4 @@ To get started with the project locally, follow these steps:
 Feel free to explore the code, and don't hesitate to reach out if you have any questions or suggestions!
 ```
 
-### Notes:
-1. **Update URLs**: Make sure to replace `your-username` in the clone URL with your actual GitHub username.
-2. **Screenshots**: Replace the screenshot paths with actual images from your project to showcase your portfolio visually.
-3. **Customization**: Tailor the content further based on specific features or technologies unique to your portfolio.
-
 Let me know if you need any more help or modifications!
