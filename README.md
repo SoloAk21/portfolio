@@ -54,7 +54,3 @@ To get started with the project locally, follow these steps:
 - Toggle between dark and light modes for your preference.
 
 
-Feel free to explore the code, and don't hesitate to reach out if you have any questions or suggestions!
-```
-
-Let me know if you need any more help or modifications!
