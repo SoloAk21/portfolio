@@ -64,3 +64,8 @@ Now, open your browser and go to `http://localhost:3000` to view your portfolio 
 - Use the **language switcher** to change site language.
 - Toggle between **dark and light modes** for personalized viewing.
 - View **live project previews** and details.
+
+
+
+**Note:** The data displayed in this portfolio is **sample data** and may not reflect real projects or information.
+
