@@ -1,9 +1,6 @@
-
-
-
 # Portfolio Website
 
-Welcome to my portfolio website! This project showcases my skills, projects, and experiences in web development. Built using React and Vite, it features a modern, responsive design that adapts to both desktop and mobile devices.
+Welcome to this simple portfolio website! This project showcases sample skills, projects, and experiences in web development. Built using React and Vite, it features a modern(minimalistic), responsive design that adapts to both desktop and mobile devices.
 
 ## Table of Contents
 
@@ -11,8 +8,6 @@ Welcome to my portfolio website! This project showcases my skills, projects, and
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
-- [License](#license)
 
 ## Technologies Used
 
@@ -58,19 +53,6 @@ To get started with the project locally, follow these steps:
 - Use the language switcher to change the language of the site.
 - Toggle between dark and light modes for your preference.
 
-## Screenshots
-
-![Portfolio Homepage](assets/screenshots/homepage.png)
-
-![About Section](assets/screenshots/about.png)
-
-![Projects Section](assets/screenshots/projects.png)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 Feel free to explore the code, and don't hesitate to reach out if you have any questions or suggestions!
 ```
